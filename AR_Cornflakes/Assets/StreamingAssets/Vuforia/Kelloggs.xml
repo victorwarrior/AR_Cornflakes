@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="ChocoPopsBox.Right" size="0.070600 0.295108"/>
+        <ImageTarget name="ChocoPopsBox.Front" size="0.189400 0.294857"/>
+        <ImageTarget name="ChocoPopsBox.Top" size="0.189400 0.070540"/>
+        <ImageTarget name="ChocoPopsBox.Bottom" size="0.189400 0.070540"/>
+        <ImageTarget name="ChocoPopsBox.Back" size="0.189400 0.294857"/>
+        <ImageTarget name="ChocoPopsBox.Left" size="0.070600 0.293640"/>
+        <MultiTarget name="ChocoPopsBox">
+            <Part name="ChocoPopsBox.Left" translation="-0.09470000118017197 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="ChocoPopsBox.Right" translation="0.09470000118017197 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="ChocoPopsBox.Front" translation="0 0 0.03530000150203705" rotation="AD: 1 0 0 0"/>
+            <Part name="ChocoPopsBox.Back" translation="0 0 -0.03530000150203705" rotation="AD: 0 1 0 180"/>
+            <Part name="ChocoPopsBox.Top" translation="0 0.14745000004768372 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="ChocoPopsBox.Bottom" translation="0 -0.14745000004768372 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
